@@ -1,0 +1,6 @@
+console.log("We have Number NUM 1 = 35");
+console.log("We have Number NUM 2 = 29");
+console.log("We have Number NUM 3 = 46");
+
+console.log("Minimum Number is")
+console.log(Math.min(35,29,46));
