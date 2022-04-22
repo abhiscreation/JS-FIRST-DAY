@@ -1,0 +1,7 @@
+console.log("We have Number NUM 1 = 251");
+console.log("We have Number NUM 2 = 129");
+
+console.log("Maximum Number is")
+console.log(Math.max(251,129));
+console.log("Minimum Number is")
+console.log(Math.min(251,129));
