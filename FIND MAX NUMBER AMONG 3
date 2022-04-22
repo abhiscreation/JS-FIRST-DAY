@@ -1,0 +1,6 @@
+console.log("We have Number NUM 1 = 8");
+console.log("We have Number NUM 2 = 23");
+console.log("We have Number NUM 3 = 17");
+
+console.log("Maximum Number is")
+console.log(Math.max(8,23,17));
